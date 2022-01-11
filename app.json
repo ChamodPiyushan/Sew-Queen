@@ -7,11 +7,11 @@
     "env": {
         "_SEW_QUEEN_SESSION": {
             "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
-            "required": true
+            "required": https://github.com/ChamodPiyushan/QueenSew/actions/new
         },
         "LANGUAGE": {
             "description": "Enter the language you want (EN or SI), ඔබට අවශ්‍ය භාෂාව ඇතුලත් කරන්න.. (EN හො SI)",
-            "required": true,
+            "required":https://github.com/ChamodPiyushan/QueenSew/actions/new,
             "value": "en"
         },
         "S_DOWN_SONG": {
